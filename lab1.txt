@@ -1,0 +1,21 @@
+zarzadzenie to 4 funkcjonalnosci - dodaj/usun/czytaj/zaktualizuj
+
+CRUD - Create/Read/Update/Delete
+
+zeby cos zaplanowac trzeba poznac strategie
+
+trzeba zadawac konstruktywne i pytania i wiedziec o co pytac klienta
+
+musimy spytać o cel
+
+musimy wiedzieć kto będzie tego używał
+
+cel - UseCase(Przypadek uzycia)
+kto - kto bedzie uzywal(aktor)
+
+typy aktorow - czlowiek, inny system, czas(abstrakcja)
+
+Na następne zajęcia wybrać temat i narysować diagram przypadków użycia
+-UseCase
+-aktor
+-research
