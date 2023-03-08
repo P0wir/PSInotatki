@@ -27,3 +27,4 @@ w UseCase uzywamy 1 slowa, działamy konsekwentnie
 praca domowa - research
 wybrac sobie 1 interfejs
 pod intefejsem piszemy sobie pare komentarzy na + i -
+zlozonosc usecase wynosi od 7 do 15
