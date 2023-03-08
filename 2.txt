@@ -1,0 +1,29 @@
+diagram przypadkow uzycia:
+Cel, aktorzy - UC kontekstowy
+aktor - obiekt zewnętrzny w stosunku do systemu, kolaboruje z systemem
+typy aktora - osoba, system, abstrakcja(np. czas)
+przypadek uzycia - specyfikacja ciagow akcji lub wariantow ktore system ma wykonac dla
+jednego aktora(Funkcjonalność dla Aktora)
+związek - powiazanie pomiedzy dwoma elementami modelu, laczy 2 przypadki uzycia, lub przypadek uzycia z aktorem
+jakie sa typy zwiazków? : 
+asocjacja - laczenie sie
+generalizacja
+
+co jest uogolnianie poszerzenie, rozszerzenie(typy zwiazkow)
+
+
+(SI) - funkcjonalności,        Dane.
+		|                |
+Dynamika          Statyka
+		|	       Struktura danych
+ DPU -UC		          |
+	           Diagram klas + Diagram obiektów		       	
+Posiada ograniczenia typu prawo, pieniądze, umiejetnosci
+
+Zeby zrobić UseCase:
+nazwa - czasownik w trybie rozkazującym + rzeczownik
+w UseCase uzywamy 1 slowa, działamy konsekwentnie
+
+praca domowa - research
+wybrac sobie 1 interfejs
+pod intefejsem piszemy sobie pare komentarzy na + i -
